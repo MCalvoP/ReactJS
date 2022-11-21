@@ -18,9 +18,9 @@ const ItemListContainer = (props) => {
     ]
     return (
         <>
-<div class="container">
-    <div class="row">
-        <div class="col">
+<div className="container">
+    <div className="row">
+        <div className="col">
             <div className="containerCard">
                 <div className="container">
                     <div className="row">
@@ -44,9 +44,9 @@ const ItemListContainer = (props) => {
     </div>
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
+<div className="container">
+    <div className="row">
+        <div className="col">
             <div className="containerCard">
                 <div className="container">
                     <div className="row">
@@ -70,9 +70,9 @@ const ItemListContainer = (props) => {
     </div>
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
+<div className="container">
+    <div className="row">
+        <div className="col">
             <div className="containerCard">
                 <div className="container">
                     <div className="row">
